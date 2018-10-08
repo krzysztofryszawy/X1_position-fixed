@@ -40,7 +40,7 @@ body {
     height: 100vh;
     position: fixed;
     z-index: -1;
-    background-image: url(img/3.JPG);
+    background-image: url(img/3.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -59,7 +59,7 @@ body {
     height: 100vh;
     position: absolute;
     top: 1.5em;
-    background-image: url(img/1.JPG);
+    background-image: url(img/1.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -115,7 +115,7 @@ body {
 .s4 {
     background-color: olivedrab;
     height: 100vh;
-    position: absolute;background-image: url(img/4.JPG);
+    position: absolute;background-image: url(img/4.jpg);
    background-repeat: no-repeat;
    background-position: center center;
    background-size: cover;
